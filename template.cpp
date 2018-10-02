@@ -2,8 +2,11 @@
 using namespace std;
 
 int main(){
-  //int t;
-  //con>>t;
+  int t;
+  cin>>t;
+  while(t--){
+    //Logic
+  }
   return 0;
   }
 
